@@ -1,0 +1,11 @@
+
+Install "Python" using Anaconda
+
+Install "idx2numpy" using the command 
+> pip install idx2numpy
+
+Place the source file and dataset files in the same folder before execution
+
+Two implementations of neural networks provided here
+1. "nn_batch_GD.py" implements neural nets using Batch Gradient Descent
+2. "nn_mini_batch_GD.py" implements neural nets using Mini-batch Gradient Descent
