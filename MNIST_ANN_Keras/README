@@ -1,0 +1,17 @@
+
+MNIST Hand-written Digit Recognition using Keras
+==================================================
+
+Architecture:
+
+2-layer neural network
+input layer has 784 neurons
+hidden layer has 1000 hidden neurons with ReLU activation function and He et. al. based weights initialization
+output layer has 10 neurons with softmax activation function and Xavier initialization
+loss function used is cross-entropy loss
+
+learning rate = 0.09
+regularization rate = 0.001, L2-regularization
+
+performed 10-fold cross validation and in every fold, performed mini-batch gradient descent with 30 as the size of mini-batch
+
