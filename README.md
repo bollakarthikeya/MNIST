@@ -1,4 +1,4 @@
-# Neural Network Experiments on MNIST
+# Artifical Neural Network (2-layer) Experiments on MNIST
 
 ## Overview
 
